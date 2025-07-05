@@ -42,7 +42,7 @@
 ---
 
 ### 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/ahmedrizk)  
+- [LinkedIn](https://www.linkedin.com/in/ahmedrizkgawish/)  
 - Email: arizk4276@gmail.com
 
 ---
