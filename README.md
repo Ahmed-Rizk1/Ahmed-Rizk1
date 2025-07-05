@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="[https://your-image-link.jpg](https://drive.google.com/file/d/1wzB-ebzgAKbwRzvF4GGQ_reiyQdJ34Nf/view?usp=sharing)" width="120" style="border-radius: 8px;">
+  <img src="Me.jpg" width="120" style="border-radius: 8px;">
 </p>
 
 <h1 align="center">Hi, I'm Ahmed Rizk</h1>
