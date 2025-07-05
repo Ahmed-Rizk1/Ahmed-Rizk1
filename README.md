@@ -17,17 +17,18 @@
 ---
 
 ### 🧠 I Know
-- **Languages**: Python, Java, HTML/CSS  
+- **Languages**: Python, c++
 - **ML**: Scikit-learn, Pandas, NumPy, Matplotlib  
-- **Deep Learning**: PyTorch, TensorFlow  
+- **Deep Learning**: TensorFlow  
 - **Version Control**: Git, GitHub  
-- **Deployment**: Flask, FastAPI, basics of Docker  
+- **Deployment**: Flask, FastAPI, Docker   
 - **Motion Graphics**: After Effects, Illustrator, Photoshop  
 
 ---
 
 ### 🔧 I'm Learning
-- Cloud (AWS)  
+- Cloud (AWS, Azure)
+- DevOps
 - MLOps and CI/CD  
 - Clean architecture and testing  
 - System design for scalable apps  
