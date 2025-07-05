@@ -1,13 +1,17 @@
-<p align="left">
-  <img src="Me.jpg" width="120" style="border-radius: 8px;">
-</p>
-
-<h1 align="center">Hi, I'm Ahmed Rizk</h1>
-
-<p align="center">
-  Passionate about <strong>Machine Learning</strong><br>
-  Always building, learning, and sharing.
-</p>
+<table>
+  <tr>
+    <td width="130">
+      <img src="Me.jpg" width="120" style="border-radius: 10px;">
+    </td>
+    <td>
+      <h1>Hi, I'm Ahmed Rizk</h1>
+      <p>
+        Passionate about <strong>Machine Learning</strong><br>
+        Always building, learning, and sharing.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -24,14 +28,13 @@
 - **ML**: Scikit-learn, Pandas, NumPy, Matplotlib  
 - **Deep Learning**: TensorFlow  
 - **Version Control**: Git, GitHub  
-- **Deployment**: Flask, FastAPI, Docker   
+- **Deployment**: Flask, FastAPI, Docker  
 - **Motion Graphics**: After Effects, Illustrator, Photoshop  
 
 ---
 
 ### 🔧 I'm Learning
-- Cloud (AWS, Azure)
-- DevOps
+- Cloud (AWS)  
 - MLOps and CI/CD  
 - Clean architecture and testing  
 - System design for scalable apps  
