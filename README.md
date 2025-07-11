@@ -1,64 +1,66 @@
-<table>
-  <tr>
-    <td width="130">
-      <img src="Me.jpg" width="120" style="border-radius: 10px;">
-    </td>
-    <td>
-      <h1>Hi, I'm Ahmed Rizk</h1>
-      <p>
-        Passionate about <strong>Machine Learning</strong><br>
-        Always building, learning, and sharing.
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- README.md -->
+
+<h1 align="center">Hi there, I'm Ahmed Rizk 👋</h1>
+<h3 align="center">Machine Learning Developer | CS Student | Always Building and Sharing</h3>
 
 ---
 
 ### 🚀 About Me
-- 🎓 CS Student | 3rd Year  
-- 🤖 I work on ML projects: preprocessing, training, evaluating, and deploying  
-- 🎬 I design and animate motion graphics using Adobe tools  
-- 🌍 Based in Egypt, learning with a global mindset  
+- 🎓 3rd Year CS Student, Faculty of Computers and Information – Kafr El Sheikh University  
+- 🤖 Passionate about Machine Learning: from data preprocessing to model deployment  
+- 🧠 Interested in NLP, Computer Vision, and MLOps  
+- 🇪🇬 Based in Egypt, learning with a global mindset  
+- 🎥 Also love creating motion graphics and educational content
 
 ---
 
-<h3>🛠 Languages and Tools</h3>
-<p>
-  <!-- Programming Languages -->
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL"></code>
+### 📡 Connect with me:
 
-  <!-- ML Frameworks & Libraries -->
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV"></code>
-
-  <!-- Tools & Environments -->
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter"></code>
-  <code><img height="25" src="https://pngset.com/images/aws-cloud-icon-baseball-cap-clothing-apparel-text-transparent-png-522389.png" title="AWS"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" title="Streamlit"></code>
-
-  <!-- Other Technologies -->
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="REST APIs"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="CLI / Bash"></code>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmedrizkgawish/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:arizk4276@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/ahmedrizk404"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
-### 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/ahmedrizkgawish/)  
-- Email: arizk4276@gmail.com
 
 ---
 
-<p align="center">
-  ⚡ Focused on real-world projects and practical impact.
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" title="SQL"/>
+
+  <!-- ML & Data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" title="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" title="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" title="Jupyter Notebook"/>
+
+  <!-- Deployment & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" title="Streamlit"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" title="REST APIs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" title="AWS"/>
 </p>
+
+---
+
+### 🎯 2025 Goals
+- ✅ Contribute to real-world ML projects
+- 🔬 Improve MLOps and deployment skills (Docker, FastAPI, CI/CD)
+- 📈 Share more projects and write blog posts
+- 🌐 Publish work on GitHub and Kaggle regularly
+
+---
+
+<p align="center">💡 Focused on solving real-world problems using AI.</p>
