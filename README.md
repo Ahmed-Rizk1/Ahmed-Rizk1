@@ -38,20 +38,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" title="Scikit-learn"/>
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" title="Hugging Face Transformers"/>
 
-<!-- GenAI -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/OpenAI_Logo.svg" height="30" title="OpenAI"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bard_logo.svg/2560px-Bard_logo.svg.png" height="30" title="Google Bard"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Meta_AI_logo.png" height="30" title="Meta LLaMA"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Anthropic_logo.png" height="30" title="Anthropic Claude"/>
-
 <!-- Deployment / MLOps -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" title="FastAPI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" title="Streamlit"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="30" title="Ansible"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Mlflow-logo-black-background.png" height="30" title="MLflow"/>
-<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="30" title="AWS"/>
 
   <!-- Data Viz -->
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="30" title="Matplotlib"/>
