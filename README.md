@@ -27,25 +27,31 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" title="SQL"/>
 
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" title="SQL"/>
+<!-- ML Libraries -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" title="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" title="Keras"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" title="Scikit-learn"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" title="Hugging Face Transformers"/>
 
-  <!-- ML Libraries -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="30" title="Keras"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" title="Scikit-learn"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" title="Hugging Face Transformers"/>
+<!-- GenAI -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/01/OpenAI_Logo.svg" height="30" title="OpenAI"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bard_logo.svg/2560px-Bard_logo.svg.png" height="30" title="Google Bard"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Meta_AI_logo.png" height="30" title="Meta LLaMA"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Anthropic_logo.png" height="30" title="Anthropic Claude"/>
 
-  <!-- Deployment / MLOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" title="Streamlit"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" title="Ansible"/>
-  <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" height="30" title="MLflow"/>
+<!-- Deployment / MLOps -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="30" title="Streamlit"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" height="30" title="Ansible"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Mlflow-logo-black-background.png" height="30" title="MLflow"/>
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" height="30" title="AWS"/>
 
   <!-- Data Viz -->
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="30" title="Matplotlib"/>
