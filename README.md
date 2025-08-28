@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 3rd Year CS Student, Faculty of Computers and Information – Kafr El Sheikh University  
+- 🎓 4rd Year CS Student, Faculty of Computers and Information – Kafr El Sheikh University  
 - 🤖 Passionate about Machine Learning: from data preprocessing to model deployment  
 - 🧠 Interested in NLP, Computer Vision, and MLOps  
 - 🇪🇬 Based in Egypt, learning with a global mindset  
