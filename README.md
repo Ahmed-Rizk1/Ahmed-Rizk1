@@ -60,11 +60,19 @@ Software-Oriented Data & AI Systems
 
 ---
 
-## 📊 Data Analysis
+## 📊 Data Analysis & Business Intelligence
 <p align="center">
+  <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36"/>
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/>
+  
+  <!-- Excel & BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="36"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="36"/>
+
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36"/>
 </p>
 
 ---
