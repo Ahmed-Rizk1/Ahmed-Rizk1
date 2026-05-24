@@ -1,91 +1,160 @@
-<!-- README.md -->
+<div align="center">
 
-<h1 align="center">Ahmed Rizk</h1>
-<h3 align="center">
-Machine Learning & Generative AI Engineer <br/>
-Software-Oriented Data & AI Systems
-</h3>
+# Ahmed Rizk
+### Machine Learning · Generative AI · Agentic Systems
+**CS Graduate | Building production AI that ships — not just notebooks.**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Production--Ready-success?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-RAG%20%26%20LLMs-orange?style=flat-square"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedrizkgawish/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arizk4276@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedrizk404)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedrizk404&color=0891b2&style=flat-square)
 
-## 🔗 Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmedrizkgawish/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:arizk4276@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://github.com/ahmedrizk404">
-    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+</div>
 
 ---
 
-## 🧱 Software Engineering for ML & AI
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="36"/>
-</p>
+## 👨‍💻 About Me
+
+```python
+class AhmedRizk:
+    role       = "ML & GenAI Engineer"
+    education  = "B.Sc. Computer Science"
+    location   = "Cairo, Egypt 🇪🇬"
+    focus      = ["Agentic AI Systems", "RAG Pipelines", "LLM Fine-tuning", "MLOps"]
+    currently  = "Building end-to-end AI systems that solve real-world problems"
+    open_to    = ["Full-time roles", "Freelance projects", "Research collaborations"]
+```
+
+I design and ship **production-grade AI systems** — from raw data to deployed, monitored models. My work sits at the intersection of **software engineering discipline** and **AI research**, covering the full stack: data pipelines → model development → serving → observability.
 
 ---
 
-## 🤖 Machine Learning & Deep Learning
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="36"/>
-</p>
+## 🧠 What I Build
+
+| Domain | Focus Areas |
+|--------|------------|
+| **Agentic AI** | Multi-agent orchestration, tool-use, autonomous pipelines, MCP servers |
+| **GenAI / LLMs** | RAG systems, LLM fine-tuning (LoRA/QLoRA), prompt engineering, embeddings |
+| **ML Engineering** | End-to-end pipelines, feature engineering, model selection & evaluation |
+| **MLOps** | Containerized serving, REST APIs, model versioning, CI/CD for ML |
+| **Data & BI** | EDA, dashboards, SQL analytics, cloud data workflows |
 
 ---
 
-## 🧠 Generative AI & LLM Systems
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="36"/>
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/langchain_logo.png" height="36"/>
-</p>
+## ⚡ Tech Stack
+
+### 🔬 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+### 🤖 Generative AI & LLM Systems
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6E40C9?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF4B4B?style=flat-square)
+![Fine-tuning](https://img.shields.io/badge/LoRA%2FQLoRA-0D1117?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude%2FAnthropic-CC785C?style=flat-square)
+![Vector DBs](https://img.shields.io/badge/Vector_Databases-00B4D8?style=flat-square)
+![Agents](https://img.shields.io/badge/Agentic_Systems-22C55E?style=flat-square)
+
+### ⚙️ Engineering & MLOps
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+### 📊 Data & Business Intelligence
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
-## 📊 Data Analysis & Business Intelligence
-<p align="center">
-  <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36"/>
-  
-  <!-- Excel & BI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="36"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="36"/>
+## 🏗️ Architecture I Work With
 
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="36"/>
-</p>
+```
+User Query
+    │
+    ▼
+┌─────────────────────────────────────┐
+│         Agentic Orchestration       │  ← LangChain / Custom Agents
+│  ┌──────────┐    ┌───────────────┐  │
+│  │  Planner │ →  │  Tool Router  │  │
+│  └──────────┘    └───────────────┘  │
+└──────────────────┬──────────────────┘
+                   │
+        ┌──────────┼──────────┐
+        ▼          ▼          ▼
+   Vector DB    LLM API    External
+  (Retrieval)  (Generate)   Tools
+        │          │          │
+        └──────────┴──────────┘
+                   │
+              ┌────▼────┐
+              │ FastAPI  │  ← Served & Monitored
+              └─────────┘
+```
 
 ---
 
-## ⚙️ MLOps & Deployment
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
-</p>
+## 🔥 2026 Buzzwords I Actually Know (and Use)
+
+`RAG` · `Multi-Agent Systems` · `LLM Fine-tuning` · `LoRA / QLoRA` · `Prompt Engineering`
+`Vector Embeddings` · `Semantic Search` · `Agentic Pipelines` · `Tool Use` · `MCP`
+`LLMOps` · `Model Serving` · `Inference Optimization` · `Retrieval-Augmented Generation`
+`Autonomous Agents` · `Chain-of-Thought` · `RLHF` · `Quantization` · `Knowledge Graphs`
 
 ---
 
-<p align="center">
-  <b>Building real-world ML & GenAI systems — not just notebooks.</b>
-</p>
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedrizk404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrizk404&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💡 Engineering Philosophy
+
+> **"Every model is a hypothesis. Every deployment is a test. Every metric is a lie until it isn't."**
+
+- 🔁 I treat ML projects like software: versioned, tested, reproducible, and monitored.
+- 🧱 I build systems that can be maintained by a team — not just run on my machine.
+- 📦 I ship. Demo > theory. Deployed > drafted.
+- 🔍 I care about *why* a model works, not just *that* it works.
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm open to roles and projects involving:
+
+- 🤖 **Agentic AI / LLM systems** in production
+- 📊 **ML pipelines** from raw data to deployed model
+- 🔍 **RAG & semantic search** applications
+- 🛠️ **MLOps** — making AI reliable, scalable, and observable
+
+**Available for:** Full-time · Freelance · Open-source collaboration
+
+---
+
+<div align="center">
+
+*CS Graduate · Cairo, Egypt · Building the AI layer of tomorrow's software.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmedrizkgawish/)
+
+</div>
