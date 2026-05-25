@@ -112,18 +112,6 @@ User Query
 `LLMOps` · `Model Serving` · `Inference Optimization` · `Retrieval-Augmented Generation`
 `Autonomous Agents` · `Chain-of-Thought` · `RLHF` · `Quantization` · `Knowledge Graphs`
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedrizk404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrizk404&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 💡 Engineering Philosophy
 
