@@ -8,8 +8,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arizk4276@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedrizk404)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedrizk404&color=0891b2&style=flat-square)
-
 </div>
 
 ---
