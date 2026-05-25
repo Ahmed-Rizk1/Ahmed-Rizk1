@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ahmed Rizk
-### Machine Learning · Generative AI · Agentic Systems
+### Machine Learning · AI Engineering · GenAI
 **CS Graduate | Building production AI that ships — not just notebooks.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedrizkgawish/)
